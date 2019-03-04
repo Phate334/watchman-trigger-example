@@ -8,6 +8,8 @@ Facebook Watchman trigger Example
 > watchman -- trigger . jsonfile test.json -- trigger.py
 ```
 
+try to modify `test.json`.
+
 ## Reference
 
 1. [watch-project](https://facebook.github.io/watchman/docs/cmd/watch-project.html)
